@@ -1,16 +1,34 @@
+# Ads
 doubleclick.net
-google-analytics.com
 googleadservices.com
 googlesyndication.com
 amazon-adsystem.com
 adsrvr.org
+
+# Analytics
+google-analytics.com
 mixpanel.com
+scorecardresearch.com
+hotjar.com
+segment.com
+segment.io
+amplitude.com
+
+# App telemetry
 newrelic.com
 sentry.io
 appcenter.ms
+crashlytics.com
+browser-intake-datadoghq.com
+datadoghq.com
+
+# Attribution / SDK tracking
 singular.net
 branch.io
 adjust.com
-crashlytics.com
-scorecardresearch.com
-hotjar.com
+appsflyer.com
+kochava.com
+
+# Optional tracker noise seen in logs
+dotmetrics.net
+awstrack.me
