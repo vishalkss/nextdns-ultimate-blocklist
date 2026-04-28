@@ -1,0 +1,16 @@
+doubleclick.net
+google-analytics.com
+googleadservices.com
+googlesyndication.com
+amazon-adsystem.com
+adsrvr.org
+mixpanel.com
+newrelic.com
+sentry.io
+appcenter.ms
+singular.net
+branch.io
+adjust.com
+crashlytics.com
+scorecardresearch.com
+hotjar.com
