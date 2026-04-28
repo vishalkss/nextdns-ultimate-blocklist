@@ -1,0 +1,1 @@
+Personalized DNS blocklists for NextDNS / AdGuard Home optimized for mixed household + developer usage.

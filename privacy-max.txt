@@ -1,0 +1,12 @@
+datadoghq.com
+browser-intake-datadoghq.com
+segment.com
+segment.io
+fullstory.com
+optimizely.com
+amplitude.com
+appsflyer.com
+kochava.com
+tealiumiq.com
+demdex.net
+omtrdc.net
