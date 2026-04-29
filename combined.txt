@@ -1,35 +1,61 @@
+# Ads / Marketing
 doubleclick.net
 googleadservices.com
 googlesyndication.com
+googleads.g.doubleclick.net
+www.googletagmanager.com
 amazon-adsystem.com
 adsrvr.org
 
+# Analytics / Tracking
 google-analytics.com
 mixpanel.com
-scorecardresearch.com
-hotjar.com
 segment.com
 segment.io
 amplitude.com
+scorecardresearch.com
+hotjar.com
+dotmetrics.net
 
+# Microsoft Telemetry
+events.data.microsoft.com
+browser.events.data.microsoft.com
+mobile.events.data.microsoft.com
+self.events.data.microsoft.com
+measure.office.net
+arc.msn.com
+g.live.com
+
+# Google / Firebase Telemetry
+clientservices.googleapis.com
+firebaselogging-pa.googleapis.com
+firebase-settings.crashlytics.com
+crashlyticsreports-pa.googleapis.com
+
+# App Telemetry / Monitoring
 newrelic.com
 sentry.io
-appcenter.ms
-crashlytics.com
+o540343.ingest.sentry.io
+bugsnag.com
+sessions.bugsnag.com
 browser-intake-datadoghq.com
 datadoghq.com
+appcenter.ms
 
+# Attribution / Growth SDKs
 singular.net
 branch.io
 adjust.com
 appsflyer.com
 kochava.com
+sdk-03.moengage.com
 
-dotmetrics.net
+# Developer / SaaS Telemetry
+xp.atlassian.com
+metrics.cursor.sh
+app.posthog.com
+
+# Optional Tracker Noise
 awstrack.me
-
-arc.msn.com
-events.data.microsoft.com
-measure.office.net
-clientservices.googleapis.com
-g.live.com
+default.exp-tas.com
+t.quic.ws
