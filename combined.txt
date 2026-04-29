@@ -18,6 +18,7 @@ hotjar.com
 dotmetrics.net
 
 # Microsoft Telemetry
+self.events.data.microsoft.com
 events.data.microsoft.com
 browser.events.data.microsoft.com
 mobile.events.data.microsoft.com
