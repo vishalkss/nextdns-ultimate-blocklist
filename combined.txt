@@ -62,3 +62,8 @@ metrics.icloud.com
 awstrack.me
 default.exp-tas.com
 t.quic.ws
+
+sb.scorecardresearch.com
+www.googletagmanager.com
+metrics.cursor.sh
+nelreports.net
