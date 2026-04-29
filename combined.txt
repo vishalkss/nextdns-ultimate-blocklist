@@ -24,6 +24,7 @@ browser.events.data.microsoft.com
 mobile.events.data.microsoft.com
 teams.events.data.microsoft.com
 measure.office.net
+*.events.data.microsoft.com
 arc.msn.com
 g.live.com
 
@@ -50,6 +51,7 @@ adjust.com
 appsflyer.com
 kochava.com
 sdk-03.moengage.com
+sdk-01.moengage.com
 
 # Developer / SaaS Telemetry
 xp.atlassian.com
@@ -67,4 +69,7 @@ t.quic.ws
 sb.scorecardresearch.com
 www.googletagmanager.com
 metrics.cursor.sh
-nelreports.net
+*.nelreports.net
+
+#Mi
+app.chat.global.xiaomi.net
