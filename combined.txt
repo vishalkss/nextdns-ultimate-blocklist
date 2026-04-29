@@ -27,12 +27,15 @@ measure.office.net
 *.events.data.microsoft.com
 arc.msn.com
 g.live.com
+us-v20.events.data.microsoft.com
+jp-mobile.events.data.microsoft.com
 
 # Google / Firebase Telemetry
 clientservices.googleapis.com
 firebaselogging-pa.googleapis.com
 firebase-settings.crashlytics.com
 crashlyticsreports-pa.googleapis.com
+clientservices.googleapis.com
 
 # App Telemetry / Monitoring
 newrelic.com
@@ -43,6 +46,7 @@ sessions.bugsnag.com
 browser-intake-datadoghq.com
 datadoghq.com
 appcenter.ms
+us-assets.i.posthog.com
 
 # Attribution / Growth SDKs
 singular.net
