@@ -47,6 +47,7 @@ browser-intake-datadoghq.com
 datadoghq.com
 appcenter.ms
 us-assets.i.posthog.com
+us.i.posthog.com
 
 # Attribution / Growth SDKs
 singular.net
