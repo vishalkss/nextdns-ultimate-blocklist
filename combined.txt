@@ -22,7 +22,7 @@ self.events.data.microsoft.com
 events.data.microsoft.com
 browser.events.data.microsoft.com
 mobile.events.data.microsoft.com
-self.events.data.microsoft.com
+teams.events.data.microsoft.com
 measure.office.net
 arc.msn.com
 g.live.com
