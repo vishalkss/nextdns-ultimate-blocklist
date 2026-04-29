@@ -55,6 +55,9 @@ xp.atlassian.com
 metrics.cursor.sh
 app.posthog.com
 
+#Apple Telemetry
+metrics.icloud.com
+
 # Optional Tracker Noise
 awstrack.me
 default.exp-tas.com
